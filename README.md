@@ -28,7 +28,8 @@ python portfolio_generator_cli.py
 # Generate with specific AI provider
 python portfolio_generator_cli.py --model-provider anthropic --model-name claude-3-5-haiku-latest
 ```
-<img width="1000" height="557" alt="image" src="https://github.com/user-attachments/assets/71b107ad-ee6c-4c4f-9974-caf6ab70c8da" />
+![unnamed](https://github.com/user-attachments/assets/6fba8d05-3ea2-48d0-82c9-f5e0d6ec5b75)
+
 
 ## 📋 Table of Contents
 
